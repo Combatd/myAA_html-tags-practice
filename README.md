@@ -1,4 +1,4 @@
-# myAA_html-tags-practice
+# HTML Tags Practice
 
 A HTML document that serves as a reference sheet.
 
